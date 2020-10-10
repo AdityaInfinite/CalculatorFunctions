@@ -2,12 +2,12 @@
 ## In C
 
 ### Includes
-- isprime()
-- sum()
-- percent()
-- percentOf()
-- isRightTriangle()
-- mean()
+- [isprime()](https://github.com/AdityaInfinite/CalculatorFunctions/blob/main/README.md#isprime)
+- [sum()](https://github.com/AdityaInfinite/CalculatorFunctions/blob/main/README.md#sum)
+- [percent()](https://github.com/AdityaInfinite/CalculatorFunctions/blob/main/README.md#percent)
+- [percentOf()](https://github.com/AdityaInfinite/CalculatorFunctions/blob/main/README.md#percentof)
+- [isRightTriangle()](https://github.com/AdityaInfinite/CalculatorFunctions/blob/main/README.md#isrighttriangle)
+- [mean()](https://github.com/AdityaInfinite/CalculatorFunctions/blob/main/README.md#mean)
 
 
 ### isprime()
